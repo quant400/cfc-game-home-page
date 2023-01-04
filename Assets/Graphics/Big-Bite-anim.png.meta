@@ -1,0 +1,1968 @@
+fileFormatVersion: 2
+guid: c93d15bb55c16fb47a09af9de8ccc218
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3444149938347688283
+    second: Big-Bite-anim_0
+  - first:
+      213: -4365297121615580377
+    second: Big-Bite-anim_1
+  - first:
+      213: -2192191763682756788
+    second: Big-Bite-anim_2
+  - first:
+      213: 2830163911284187828
+    second: Big-Bite-anim_3
+  - first:
+      213: 6297820257054200088
+    second: Big-Bite-anim_4
+  - first:
+      213: -1273530265570992973
+    second: Big-Bite-anim_5
+  - first:
+      213: -1832867651269655499
+    second: Big-Bite-anim_6
+  - first:
+      213: 2105525349034325176
+    second: Big-Bite-anim_7
+  - first:
+      213: 8626957810373148268
+    second: Big-Bite-anim_8
+  - first:
+      213: -2458992368550564109
+    second: Big-Bite-anim_9
+  - first:
+      213: -4070660462937828013
+    second: Big-Bite-anim_10
+  - first:
+      213: 8766372683986140398
+    second: Big-Bite-anim_11
+  - first:
+      213: 2190500070680773303
+    second: Big-Bite-anim_12
+  - first:
+      213: -2299944455859580627
+    second: Big-Bite-anim_13
+  - first:
+      213: 4108262783193360297
+    second: Big-Bite-anim_14
+  - first:
+      213: 4607603627972110412
+    second: Big-Bite-anim_15
+  - first:
+      213: 2591554163394828171
+    second: Big-Bite-anim_16
+  - first:
+      213: 4648013164393756209
+    second: Big-Bite-anim_17
+  - first:
+      213: 6773123817529292003
+    second: Big-Bite-anim_18
+  - first:
+      213: 8861847903704359584
+    second: Big-Bite-anim_19
+  - first:
+      213: -5952689067533652824
+    second: Big-Bite-anim_20
+  - first:
+      213: 3743907499775388442
+    second: Big-Bite-anim_21
+  - first:
+      213: -4859308113429971387
+    second: Big-Bite-anim_22
+  - first:
+      213: 5145795567654393444
+    second: Big-Bite-anim_23
+  - first:
+      213: -6993155352053544127
+    second: Big-Bite-anim_24
+  - first:
+      213: 1501332318637583577
+    second: Big-Bite-anim_25
+  - first:
+      213: -753931046847315127
+    second: Big-Bite-anim_26
+  - first:
+      213: -4853303165380404011
+    second: Big-Bite-anim_27
+  - first:
+      213: -959835836819407722
+    second: Big-Bite-anim_28
+  - first:
+      213: -362398357915342070
+    second: Big-Bite-anim_29
+  - first:
+      213: -4979203900121196105
+    second: Big-Bite-anim_30
+  - first:
+      213: -809340573593941717
+    second: Big-Bite-anim_31
+  - first:
+      213: 2304429898532271158
+    second: Big-Bite-anim_32
+  - first:
+      213: 2643334853528897375
+    second: Big-Bite-anim_33
+  - first:
+      213: 8688476935458218877
+    second: Big-Bite-anim_34
+  - first:
+      213: -9088045849759803677
+    second: Big-Bite-anim_35
+  - first:
+      213: -3603805459380860697
+    second: Big-Bite-anim_36
+  - first:
+      213: 253969979729401175
+    second: Big-Bite-anim_37
+  - first:
+      213: -3272088719219649612
+    second: Big-Bite-anim_38
+  - first:
+      213: 3950714094830576593
+    second: Big-Bite-anim_39
+  - first:
+      213: -6551454602688351896
+    second: Big-Bite-anim_40
+  - first:
+      213: 3951355224583924754
+    second: Big-Bite-anim_41
+  - first:
+      213: 5903485091037287147
+    second: Big-Bite-anim_42
+  - first:
+      213: -196534895366977512
+    second: Big-Bite-anim_43
+  - first:
+      213: -874060866969342154
+    second: Big-Bite-anim_44
+  - first:
+      213: 4460802579534649867
+    second: Big-Bite-anim_45
+  - first:
+      213: 3598723473405762217
+    second: Big-Bite-anim_46
+  - first:
+      213: 7696674208258411199
+    second: Big-Bite-anim_47
+  - first:
+      213: -3350809946839899569
+    second: Big-Bite-anim_48
+  - first:
+      213: 8960259346323211384
+    second: Big-Bite-anim_49
+  - first:
+      213: -1958822232037101360
+    second: Big-Bite-anim_50
+  - first:
+      213: -1417579404925602543
+    second: Big-Bite-anim_51
+  - first:
+      213: -6483713734308463016
+    second: Big-Bite-anim_52
+  - first:
+      213: -750036466260977563
+    second: Big-Bite-anim_53
+  - first:
+      213: 2453864783172962209
+    second: Big-Bite-anim_54
+  - first:
+      213: 81421565009590207
+    second: Big-Bite-anim_55
+  - first:
+      213: 6947323193395793245
+    second: Big-Bite-anim_56
+  - first:
+      213: 1169933071384149615
+    second: Big-Bite-anim_57
+  - first:
+      213: 8227370217117986444
+    second: Big-Bite-anim_58
+  - first:
+      213: 4079990331567451021
+    second: Big-Bite-anim_59
+  - first:
+      213: 2634499837612729775
+    second: Big-Bite-anim_60
+  - first:
+      213: 9101576191567100491
+    second: Big-Bite-anim_61
+  - first:
+      213: 4801288831872388813
+    second: Big-Bite-anim_62
+  - first:
+      213: 7293931176987595375
+    second: Big-Bite-anim_63
+  - first:
+      213: -5432854525708802681
+    second: Big-Bite-anim_64
+  - first:
+      213: -5232095944866033660
+    second: Big-Bite-anim_65
+  - first:
+      213: 539103956373141745
+    second: Big-Bite-anim_66
+  - first:
+      213: 445561063573529582
+    second: Big-Bite-anim_67
+  - first:
+      213: 6529878051754013448
+    second: Big-Bite-anim_68
+  - first:
+      213: 4722784062963703636
+    second: Big-Bite-anim_69
+  - first:
+      213: 8520951489178370135
+    second: Big-Bite-anim_70
+  - first:
+      213: -746945714764026758
+    second: Big-Bite-anim_71
+  - first:
+      213: 2186284954097181323
+    second: Big-Bite-anim_72
+  - first:
+      213: -5602435003669469693
+    second: Big-Bite-anim_73
+  - first:
+      213: -8622668157419936242
+    second: Big-Bite-anim_74
+  - first:
+      213: -4931211922807856531
+    second: Big-Bite-anim_75
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Big-Bite-anim_0
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 9014
+        width: 310
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51c56cfe141ccf20800000000000000
+      internalID: 3444149938347688283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_1
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 9014
+        width: 304
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723711f65695b63c0800000000000000
+      internalID: -4365297121615580377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_2
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 9014
+        width: 309
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47f626a435c391e0800000000000000
+      internalID: -2192191763682756788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_3
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 9014
+        width: 309
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2693c1513c64720800000000000000
+      internalID: 2830163911284187828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_4
+      rect:
+        serializedVersion: 2
+        x: 2564
+        y: 9014
+        width: 300
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81199f0182a566750800000000000000
+      internalID: 6297820257054200088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 8414
+        width: 309
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc9eed88f2835ee0800000000000000
+      internalID: -1273530265570992973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_6
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 8414
+        width: 300
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53484c505985096e0800000000000000
+      internalID: -1832867651269655499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_7
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 8414
+        width: 309
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b475ce3624583d10800000000000000
+      internalID: 2105525349034325176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_8
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 8414
+        width: 300
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6eb293cb6c19b770800000000000000
+      internalID: 8626957810373148268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_9
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 8414
+        width: 309
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fea5271877efddd0800000000000000
+      internalID: -2458992368550564109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_10
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 7814
+        width: 337
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3551d5150eb1287c0800000000000000
+      internalID: -4070660462937828013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_11
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 7814
+        width: 347
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec7ea5828968a970800000000000000
+      internalID: 8766372683986140398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_12
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 7814
+        width: 347
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b245616538366e10800000000000000
+      internalID: 2190500070680773303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_13
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 7814
+        width: 337
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d215c59f3b4f410e0800000000000000
+      internalID: -2299944455859580627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_14
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 7814
+        width: 309
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7a23c1c3b730930800000000000000
+      internalID: 4108262783193360297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_15
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 7214
+        width: 300
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c482417661f71ff30800000000000000
+      internalID: 4607603627972110412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_16
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 7214
+        width: 309
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87555de7cc07f320800000000000000
+      internalID: 2591554163394828171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_17
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 7214
+        width: 300
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1367707c85f018040800000000000000
+      internalID: 4648013164393756209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_18
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 7214
+        width: 309
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4329bf938fefd50800000000000000
+      internalID: 6773123817529292003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_19
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 7214
+        width: 309
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2a6d167bb9bfa70800000000000000
+      internalID: 8861847903704359584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_20
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 6614
+        width: 309
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac2e4fe4dcc36da0800000000000000
+      internalID: -5952689067533652824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_21
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 6614
+        width: 310
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b6804f80805f330800000000000000
+      internalID: 3743907499775388442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_22
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 6614
+        width: 318
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e35dc3405409cb0800000000000000
+      internalID: -4859308113429971387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_23
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 6614
+        width: 337
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466d1d02ec9896740800000000000000
+      internalID: 5145795567654393444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_24
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 6614
+        width: 347
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b0ab5324253fe90800000000000000
+      internalID: -6993155352053544127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_25
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 6014
+        width: 337
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dce4361acdc5d410800000000000000
+      internalID: 1501332318637583577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_26
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 6014
+        width: 328
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943078715bf7985f0800000000000000
+      internalID: -753931046847315127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_27
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 6014
+        width: 319
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcd8382c7a95acb0800000000000000
+      internalID: -4853303165380404011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_28
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 6014
+        width: 328
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c70bf446afda2f0800000000000000
+      internalID: -959835836819407722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_29
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 6014
+        width: 346
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b65411d9088faf0800000000000000
+      internalID: -362398357915342070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_30
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 5414
+        width: 356
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9590d0f6056eab0800000000000000
+      internalID: -4979203900121196105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_31
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 5414
+        width: 356
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b294f905905a4c4f0800000000000000
+      internalID: -809340573593941717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_32
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 5414
+        width: 347
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6343ec788cafaff10800000000000000
+      internalID: 2304429898532271158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_33
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 5414
+        width: 344
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57cff65b030fa420800000000000000
+      internalID: 2643334853528897375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_34
+      rect:
+        serializedVersion: 2
+        x: 2545
+        y: 5414
+        width: 357
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7369214dbba39870800000000000000
+      internalID: 8688476935458218877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_35
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 4814
+        width: 346
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e69a9e3376c0e180800000000000000
+      internalID: -9088045849759803677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_36
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 4814
+        width: 356
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e88df94706bcfdc0800000000000000
+      internalID: -3603805459380860697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_37
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 4814
+        width: 356
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7555269d958468300800000000000000
+      internalID: 253969979729401175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_38
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 4814
+        width: 337
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3995965a43792d0800000000000000
+      internalID: -3272088719219649612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_39
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 4814
+        width: 346
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d361879981c3d630800000000000000
+      internalID: 3950714094830576593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_40
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 4214
+        width: 337
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861b9acffbe8415a0800000000000000
+      internalID: -6551454602688351896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_41
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 4214
+        width: 327
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c65be34a806d630800000000000000
+      internalID: 3951355224583924754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_42
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 4214
+        width: 309
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2971c89646de150800000000000000
+      internalID: 5903485091037287147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_43
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 4214
+        width: 319
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818ceafcd84c54df0800000000000000
+      internalID: -196534895366977512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_44
+      rect:
+        serializedVersion: 2
+        x: 2545
+        y: 4214
+        width: 310
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fe830c546bed3f0800000000000000
+      internalID: -874060866969342154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_45
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 3623
+        width: 310
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a1f4ecf44f7ed30800000000000000
+      internalID: 4460802579534649867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_46
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 3633
+        width: 319
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aad535aeeb31f130800000000000000
+      internalID: 3598723473405762217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_47
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 3623
+        width: 337
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba4727e96410da60800000000000000
+      internalID: 7696674208258411199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_48
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 3614
+        width: 365
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4223c05b188f71d0800000000000000
+      internalID: -3350809946839899569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_49
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 3624
+        width: 365
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87408f8e66c395c70800000000000000
+      internalID: 8960259346323211384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_50
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 3023
+        width: 365
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d07a49ee8dd0d4e0800000000000000
+      internalID: -1958822232037101360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_51
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 3023
+        width: 300
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115ff78ba0fb35ce0800000000000000
+      internalID: -1417579404925602543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_52
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 3023
+        width: 262
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ef839f5b83506a0800000000000000
+      internalID: -6483713734308463016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_53
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 3033
+        width: 276
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568dcebcec55795f0800000000000000
+      internalID: -750036466260977563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_54
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 3033
+        width: 375
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a78dd7e401ed0220800000000000000
+      internalID: 2453864783172962209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_55
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2433
+        width: 488
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7f3736b74412100800000000000000
+      internalID: 81421565009590207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_56
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 2433
+        width: 384
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d403ac2a9d96060800000000000000
+      internalID: 6947323193395793245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_57
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 2433
+        width: 366
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e75da0eef6c3010800000000000000
+      internalID: 1169933071384149615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_58
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 2433
+        width: 357
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e22fa3f9d7d2270800000000000000
+      internalID: 8227370217117986444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_59
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 2433
+        width: 347
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b2b1007990f9830800000000000000
+      internalID: 4079990331567451021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_60
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1833
+        width: 337
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa52bb5e4af9f8420800000000000000
+      internalID: 2634499837612729775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_61
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1833
+        width: 336
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a7282f25b4f4e70800000000000000
+      internalID: 9101576191567100491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_62
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 1842
+        width: 336
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcecdc711ca91a240800000000000000
+      internalID: 4801288831872388813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_63
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 1852
+        width: 336
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f621e74b2cf393560800000000000000
+      internalID: 7293931176987595375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_64
+      rect:
+        serializedVersion: 2
+        x: 2517
+        y: 1852
+        width: 338
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785e0c6e79f9a94b0800000000000000
+      internalID: -5432854525708802681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_65
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1242
+        width: 346
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4009f7f757cd367b0800000000000000
+      internalID: -5232095944866033660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_66
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1242
+        width: 375
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8f0a821384b7700800000000000000
+      internalID: 539103956373141745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_67
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1224
+        width: 375
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3ab083d63fe2600800000000000000
+      internalID: 445561063573529582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_68
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 1223
+        width: 355
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803fa65cd79ce9a50800000000000000
+      internalID: 6529878051754013448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_69
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 1223
+        width: 337
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fd3d73513ba8140800000000000000
+      internalID: 4722784062963703636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_70
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 614
+        width: 318
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75000d4cb30804670800000000000000
+      internalID: 8520951489178370135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_71
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 614
+        width: 310
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c6df474d052a5f0800000000000000
+      internalID: -746945714764026758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_72
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 623
+        width: 310
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b826eb2159e375e10800000000000000
+      internalID: 2186284954097181323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_73
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 633
+        width: 310
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30621111c072042b0800000000000000
+      internalID: -5602435003669469693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_74
+      rect:
+        serializedVersion: 2
+        x: 2545
+        y: 623
+        width: 310
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06a9e4eef0265880800000000000000
+      internalID: -8622668157419936242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bite-anim_75
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 14
+        width: 310
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62edd402e0d09bb0800000000000000
+      internalID: -4931211922807856531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: aecf0c9d9f917764eaad3c6e64f410e3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
