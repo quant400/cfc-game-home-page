@@ -48,6 +48,8 @@ public class FireBaseWebGLAuth : MonoBehaviour
     TMP_Text InfoDisplay;
     [SerializeField]
     GameObject loginButton;
+    [SerializeField]
+    GameObject logoutButton;
 
     private void Start()
     {
@@ -157,17 +159,21 @@ public class FireBaseWebGLAuth : MonoBehaviour
     void SignedIn(string info)
     {
         loginButton.GetComponent<UnityEngine.UI.Button>().interactable = false;
+        loginButton.SetActive(false);
+        logoutButton.SetActive(true);
         InfoDisplay.text = info.ToUpper();
         currentOpenWindiow.SetActive(false);
         currentOpenWindiow = methodSelect;
         //do stuff after login
-        Controller.instance.OpenGameSelect();
+        //Controller.instance.OpenGameSelect();
     }
     
     public void LogOut()
     {
         FirebaseAuth.SignOut();
         loginButton.GetComponent<UnityEngine.UI.Button>().interactable = true;
+        loginButton.SetActive(true);
+        logoutButton.SetActive(false);
         InfoDisplay.text = "";
         emailRegisterField.text = "";
         passwordRegisterField.text = "";
@@ -287,6 +293,11 @@ public class FireBaseWebGLAuth : MonoBehaviour
     public void LoadPrivacy()
     {
         Application.OpenURL("https://www.cryptofightclub.io/privacy-policy");
+    }
+    public void GoToWebsite()
+    {
+        Application.ExternalEval("window.open('" + "https://www.cryptofightclub.io" + "','_self')");
+        Application.Quit();
     }
 
  #endregion utility
